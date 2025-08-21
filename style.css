@@ -1,0 +1,53 @@
+body {
+  background-image: url(./images-site/spiral-galaxy-messier-66-astronomy-p7jvb7lxb3auxkfj.jpg) ;
+  margin: 0;
+  line-height: 1.6;
+  color: #ffff;     
+}
+
+header {
+  background: #140038;   
+  color: #ff7b00;        
+  padding: 1rem;
+  top: 0;
+    border: 1px solid #855e0a; 
+     opacity: 0.9;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 15px;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li a {
+  color: #ffffff; 
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav ul li a:hover {
+  color: #4b3f34; 
+  
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  padding: 1rem;
+  border-radius: 2px;
+  background: #140038; 
+  opacity: 0.8;
+
+}
+
+h2 {
+  color: #855e0a; 
+  margin-top: 0;
+}
+
+
