@@ -1,5 +1,6 @@
 body {
   background-image: url(./images-site/spiral-galaxy-messier-66-astronomy-p7jvb7lxb3auxkfj.jpg) ;
+  background-attachment: fixed;
   margin: 0;
   line-height: 1.6;
   color: #ffff;     
